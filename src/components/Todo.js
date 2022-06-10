@@ -6,7 +6,7 @@ function Todo()
     //10-6-22
     //TY.BTECH CSE
 
-    
+
     /**hook to get input of text-field */
     const [name, setName] = useState('');
     
@@ -70,7 +70,7 @@ function Todo()
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Todo App
           </Typography>
-          <Button color="inherit">Login</Button>
+          <Button color="inherit">akash patil</Button>
         </Toolbar>
       </AppBar>
     </Box>
